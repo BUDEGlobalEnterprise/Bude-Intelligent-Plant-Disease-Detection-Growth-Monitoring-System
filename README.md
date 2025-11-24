@@ -1,0 +1,2 @@
+# Bude Intelligent Plant Disease Detection Growth Monitoring System
+An autonomous plant health monitoring system combining real-time disease detection with long-term growth tracking. Uses Google Gemini Vision AI for instant disease identification and time-lapse analysis for growth pattern insights. Enables home gardeners, small farms, and educational institutions to prevent crop loss through early intervention. Key Innovation: First embedded camera system integrating multimodal AI (Gemini) with automated time-lapse for comprehensive plant lifecycle management.
