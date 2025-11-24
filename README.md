@@ -7,7 +7,7 @@
 
 **Prevent crop loss with AI-powered disease detection and automated growth tracking. Save 87% compared to commercial solutions.**
 
-![System Banner](docs/images/banner.jpg)
+![System Banner](docs/images/banner.png)
 
 ---
 
@@ -261,10 +261,10 @@ nano /CIRCUITPY/settings.toml
 ### Screenshots
 
 **Disease Detection:**
-![Disease Detection](docs/images/disease-detection.jpg)
+![Disease Detection](docs/images/disease-detection.png)
 
 **Growth Time-Lapse:**
-![Time-Lapse](docs/images/timelapse.gif)
+![Time-Lapse](docs/images/timelapse.png)
 
 **Analytics Dashboard:**
 ![Dashboard](docs/images/dashboard.jpg)
