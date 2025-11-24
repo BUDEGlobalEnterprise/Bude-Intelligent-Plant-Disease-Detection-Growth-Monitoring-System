@@ -7,7 +7,7 @@
 
 **Prevent crop loss with AI-powered disease detection and automated growth tracking. Save 87% compared to commercial solutions.**
 
-![System Banner](docs/images/banner.png)
+![System Banner](docs/images/Bude-Intelligent-System.png)
 
 ---
 
